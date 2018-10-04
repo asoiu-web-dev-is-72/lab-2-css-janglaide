@@ -1,0 +1,79 @@
+body{
+	font-family: cursive;
+	font-size: 18px;
+}
+h3{
+	text-align: center;
+}
+.txt_main{
+	color: #2c4732;
+	background-color: #d7e8db;
+	border: solid #367042 4px;
+	border-radius: 10px;
+	padding: 20px;
+	margin: 20px;
+	text-align: center;
+	opacity: 0.85;
+}
+#table{
+	border-radius: 10px;
+	color: #d7e8db;
+	background-color: #d7e8db;
+	margin: 2px;
+	padding: 2px;
+}
+#ukr{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+.txt_kyiv{
+	color:#fcd3ab;
+	background-color: black; 
+	margin: 1px 20px 20px 20px;
+	padding: 1px 20px 20px 20px;
+}
+#kv_pic{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	border: double #fcd3ab 10px;
+}
+.bg_kharkiv{
+	background-color: #fff8e5;
+	padding: 5px;
+	margin: 5px;
+	border: solid #063d36 3px;
+	border-radius: 25px;
+	opacity: 0.7;
+}
+#body_kh{
+	background-image: url("kh.jpg"); 
+	color: #063d36;
+}
+#dnipro{
+	background-color: #96e3ff;
+	padding: 2px 20px 20px 20px;
+	margin: 2px 20px 20px 20px;
+}
+#dn_pic{
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+	border: dashed black 3px;
+	border-radius: 25px;
+	opacity: 0.9;
+}
+#odesa{
+	color: #ffeec4;
+	margin: 1px 20px 20px 20px;
+	padding: 1px 20px 20px 20px;
+	background-color: black; 
+}
+#odesa > img{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	border: solid #ffeec4 3px;
+	border-radius: 5px;
+}
